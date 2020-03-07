@@ -60,8 +60,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="938" />
-    <option name="y" value="24" />
+    <option name="x" value="689" />
+    <option name="y" value="58" />
     <option name="width" value="962" />
     <option name="height" value="1000" />
   </component>
@@ -95,6 +95,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cSharp.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

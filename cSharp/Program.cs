@@ -6,7 +6,7 @@ namespace cSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(  "Hello poc"  );
+            Console.WriteLine(  "Hello"  );
         }
        
         static void TRIAGLESQ()

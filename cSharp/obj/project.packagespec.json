@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\C#\\cSharp\\cSharp\\cSharp.csproj",
+    "projectUniqueName": "C:\\Users\\MonsterPC\\Desktop\\GIT\\NET\\NET-practice\\cSharp\\cSharp.csproj",
     "projectName": "cSharp",
-    "projectPath": "D:\\C#\\cSharp\\cSharp\\cSharp.csproj",
-    "outputPath": "D:\\C#\\cSharp\\cSharp\\obj\\",
+    "projectPath": "C:\\Users\\MonsterPC\\Desktop\\GIT\\NET\\NET-practice\\cSharp\\cSharp.csproj",
+    "outputPath": "C:\\Users\\MonsterPC\\Desktop\\GIT\\NET\\NET-practice\\cSharp\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
